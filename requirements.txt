@@ -1,6 +1,6 @@
 streamlit 
 PyMuPDF
-langchain_cummunity
+langchain_community
 langchain_core
 langchain_text_splitters 
 langchain_openai
